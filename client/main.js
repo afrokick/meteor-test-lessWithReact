@@ -1,1 +1,1 @@
-import '../imports/ui/c';
+import '../imports/test';
