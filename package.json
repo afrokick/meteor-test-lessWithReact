@@ -1,0 +1,11 @@
+{
+  "name": "meteor-test-jsx-js",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.7.2",
+    "@babel/runtime": "7.7.2",
+    "meteor-node-stubs": "1.0.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}
